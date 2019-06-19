@@ -24,7 +24,6 @@ namespace _07._Salary
                     break;
                 }
             }
-
             if (salaryNew <= 0)
             {
                 Console.WriteLine("You have lost your salary.");
@@ -33,9 +32,6 @@ namespace _07._Salary
             {
                 Console.WriteLine(salaryNew);
             }
-
-
-
         }
     }
 }
