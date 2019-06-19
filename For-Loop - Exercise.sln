@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Half Sum Element", "02.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Odd - Even Position", "03. Odd - Even Position\03. Odd - Even Position.csproj", "{9DFF0DF6-27C9-457D-A540-5B0F4580F164}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Equal Pairs", "04. Equal Pairs\04. Equal Pairs.csproj", "{EBBED982-CF64-42F4-A690-5AD37D3945BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Histogram", "05. Histogram\05. Histogram.csproj", "{2E3D6EDB-A20B-4D6A-B2D0-D4A958FB216D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{9DFF0DF6-27C9-457D-A540-5B0F4580F164}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DFF0DF6-27C9-457D-A540-5B0F4580F164}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DFF0DF6-27C9-457D-A540-5B0F4580F164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBBED982-CF64-42F4-A690-5AD37D3945BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBED982-CF64-42F4-A690-5AD37D3945BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBED982-CF64-42F4-A690-5AD37D3945BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBED982-CF64-42F4-A690-5AD37D3945BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3D6EDB-A20B-4D6A-B2D0-D4A958FB216D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3D6EDB-A20B-4D6A-B2D0-D4A958FB216D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3D6EDB-A20B-4D6A-B2D0-D4A958FB216D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3D6EDB-A20B-4D6A-B2D0-D4A958FB216D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
