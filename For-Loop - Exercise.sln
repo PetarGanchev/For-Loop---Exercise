@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Numbers Ending in 7", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Half Sum Element", "02. Half Sum Element\02. Half Sum Element.csproj", "{F20A67DB-C9E3-4545-BA00-DD274EBF4434}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Odd - Even Position", "03. Odd - Even Position\03. Odd - Even Position.csproj", "{9DFF0DF6-27C9-457D-A540-5B0F4580F164}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F20A67DB-C9E3-4545-BA00-DD274EBF4434}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F20A67DB-C9E3-4545-BA00-DD274EBF4434}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F20A67DB-C9E3-4545-BA00-DD274EBF4434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DFF0DF6-27C9-457D-A540-5B0F4580F164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFF0DF6-27C9-457D-A540-5B0F4580F164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFF0DF6-27C9-457D-A540-5B0F4580F164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DFF0DF6-27C9-457D-A540-5B0F4580F164}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
