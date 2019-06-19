@@ -17,15 +17,15 @@ namespace _02._Half_Sum_Element
 
                 if (i == 0)
                 {
-                   maxNumber = currentInput;
+                    maxNumber = currentInput;
                 }
                 if (currentInput > maxNumber)
                 {
                     maxNumber = currentInput;
                 }
-
             }
-            if (sum-maxNumber == maxNumber)
+
+            if (sum - maxNumber == maxNumber)
             {
                 Console.WriteLine("Yes");
                 Console.WriteLine($"Sum = {maxNumber}");
@@ -36,9 +36,6 @@ namespace _02._Half_Sum_Element
                 int diff = Math.Abs(maxNumber - (sum - maxNumber));
                 Console.WriteLine($"Diff = {diff}");
             }
-
-
-
         }
     }
 }
